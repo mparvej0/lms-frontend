@@ -8,6 +8,7 @@
     "axi": "^1.0.0",
     "chart.js": "^4.4.1",
     "daisyui": "^4.6.0",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
     "os": "^0.1.2",
     "react-chartjs-2": "^5.2.0",
     "react-hot-toast": "^2.4.1",
